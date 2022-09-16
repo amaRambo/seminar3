@@ -9,3 +9,6 @@ git eto sistema kontrolya versii. nuzhna dlya togo 4tobi...
 Чтобы создать новый репозиторий (инициализировать) используют команду:
 
     git init
+
+## Проверка состояния репозитория 
+
