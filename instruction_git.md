@@ -49,3 +49,7 @@ git eto sistema kontrolya versii. nuzhna dlya togo 4tobi...
 Чтобы вызвать журнал изменений:
 
     git log
+
+Чтобы вызвать журнал изменений без даты и имени пользователя: 
+
+    git log --oneline 
