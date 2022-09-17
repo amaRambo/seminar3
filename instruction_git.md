@@ -53,3 +53,9 @@ git eto sistema kontrolya versii. nuzhna dlya togo 4tobi...
 Чтобы вызвать журнал изменений без даты и имени пользователя: 
 
     git log --oneline 
+
+## Разница
+
+Чтобы увидеть разницу на текущий момент (будет отображаться + или -):
+
+    git diff
