@@ -43,3 +43,9 @@ git eto sistema kontrolya versii. nuzhna dlya togo 4tobi...
 Для упрощение можно объеденить комманды add и commit -m можно использовать:
 
     git commit -am
+
+## Журнал изменений
+
+Чтобы вызвать журнал изменений:
+
+    git log
