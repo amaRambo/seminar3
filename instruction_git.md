@@ -39,3 +39,7 @@ git eto sistema kontrolya versii. nuzhna dlya togo 4tobi...
 Если описание занимает много места, то мы открываем текстовый редактор:
 
     git commit
+
+Для упрощение можно объеденить комманды add и commit -m можно использовать:
+
+    git commit -am
