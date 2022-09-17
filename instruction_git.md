@@ -29,3 +29,9 @@ git eto sistema kontrolya versii. nuzhna dlya togo 4tobi...
 Чтобы добавить изменения в определенный файл:
 
     git add <filename>
+
+## Комментирование 
+
+Для того, чтобы описать изменения мы используем:
+
+    git commit -m "massage"
