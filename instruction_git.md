@@ -35,3 +35,7 @@ git eto sistema kontrolya versii. nuzhna dlya togo 4tobi...
 Для того, чтобы описать изменения мы используем:
 
     git commit -m "massage"
+
+Если описание занимает много места, то мы открываем текстовый редактор:
+
+    git commit
