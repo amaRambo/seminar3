@@ -69,3 +69,5 @@ git eto sistema kontrolya versii. nuzhna dlya togo 4tobi...
 Так же, стоит отметить, что возвращаемся к актуальной ветке не через номер, а через комманду:
 
     git checkout master
+
+    ## Ветвление 
