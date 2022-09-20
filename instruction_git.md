@@ -77,3 +77,5 @@ git eto sistema kontrolya versii. nuzhna dlya togo 4tobi...
 Для того чтобы посмотреть какие ветки созданы используется команда:
 
      git branch
+
+### Создание новой ветки
