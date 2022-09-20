@@ -78,11 +78,7 @@ git eto sistema kontrolya versii. nuzhna dlya togo 4tobi...
 
      git branch
 
-<<<<<<< HEAD
-### Создание новой ветки
-=======
 ### Создание новой ветки
 
 Для создание новой ветки...
 
->>>>>>> newbranch
