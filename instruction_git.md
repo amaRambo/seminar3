@@ -71,3 +71,9 @@ git eto sistema kontrolya versii. nuzhna dlya togo 4tobi...
     git checkout master
 
     ## Ветвление 
+
+    ### Просмотри существующих веток
+
+    Для того чтобы посмотреть какие ветки созданы используется команда:
+
+        git branch
