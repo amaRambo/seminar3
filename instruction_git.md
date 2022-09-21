@@ -95,3 +95,11 @@ git eto sistema kontrolya versii. nuzhna dlya togo 4tobi...
     git merge branch_name
 
 При этом нужно находиться в той ветке, в которую мы хотим добавить ветку.
+
+## Удаление веток 
+
+Для удаление веток мы используем:
+
+    git branch -d branch_name
+
+
