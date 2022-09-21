@@ -72,7 +72,7 @@ git eto sistema kontrolya versii. nuzhna dlya togo 4tobi...
 
 ## Картинка 
 
-![начало дз](rambo,jpg)
+![начало дз](rambo.jpg)
 
 ## Ветвление 
 
