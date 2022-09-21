@@ -102,4 +102,10 @@ git eto sistema kontrolya versii. nuzhna dlya togo 4tobi...
 
     git branch -d branch_name
 
+## Дерево
 
+Для удобства, что увидеть дерево с коммитами в одну строку будем использовать:
+
+    git log --oneline --all --graph
+
+    
