@@ -70,6 +70,10 @@ git eto sistema kontrolya versii. nuzhna dlya togo 4tobi...
 
     git checkout master
 
+## Картинка 
+
+![начало дз](rambo,jpg)
+
 ## Ветвление 
 
 ### Просмотр существующих веток
