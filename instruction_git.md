@@ -111,4 +111,4 @@ git eto sistema kontrolya versii. nuzhna dlya togo 4tobi...
 
     git log --oneline --all --graph
 
-    
+## Удаленные репозитории 
